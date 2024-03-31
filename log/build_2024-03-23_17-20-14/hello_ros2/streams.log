@@ -1,0 +1,25 @@
+[2.793s] Invoking command in '/home/pankaj/roschallenge_ws/src/hello_ros2': PYTHONPATH=/home/pankaj/roschallenge_ws/build/hello_ros2/prefix_override:/home/pankaj/roschallenge_ws/install/hello_ros2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/hello_ros2 build --build-base /home/pankaj/roschallenge_ws/build/hello_ros2/build install --record /home/pankaj/roschallenge_ws/build/hello_ros2/install.log --single-version-externally-managed
+[3.581s] running egg_info
+[3.582s] writing ../../build/hello_ros2/hello_ros2.egg-info/PKG-INFO
+[3.582s] writing dependency_links to ../../build/hello_ros2/hello_ros2.egg-info/dependency_links.txt
+[3.582s] writing entry points to ../../build/hello_ros2/hello_ros2.egg-info/entry_points.txt
+[3.582s] writing requirements to ../../build/hello_ros2/hello_ros2.egg-info/requires.txt
+[3.582s] writing top-level names to ../../build/hello_ros2/hello_ros2.egg-info/top_level.txt
+[3.585s] reading manifest file '../../build/hello_ros2/hello_ros2.egg-info/SOURCES.txt'
+[3.586s] writing manifest file '../../build/hello_ros2/hello_ros2.egg-info/SOURCES.txt'
+[3.587s] running build
+[3.587s] running build_py
+[3.588s] copying hello_ros2/publisher.py -> /home/pankaj/roschallenge_ws/build/hello_ros2/build/lib/hello_ros2
+[3.589s] running install
+[3.591s] running install_lib
+[3.593s] copying /home/pankaj/roschallenge_ws/build/hello_ros2/build/lib/hello_ros2/publisher.py -> /home/pankaj/roschallenge_ws/install/hello_ros2/lib/python3.10/site-packages/hello_ros2
+[3.594s] byte-compiling /home/pankaj/roschallenge_ws/install/hello_ros2/lib/python3.10/site-packages/hello_ros2/publisher.py to publisher.cpython-310.pyc
+[3.595s] running install_data
+[3.596s] running install_egg_info
+[3.599s] removing '/home/pankaj/roschallenge_ws/install/hello_ros2/lib/python3.10/site-packages/hello_ros2-0.0.0-py3.10.egg-info' (and everything under it)
+[3.600s] Copying ../../build/hello_ros2/hello_ros2.egg-info to /home/pankaj/roschallenge_ws/install/hello_ros2/lib/python3.10/site-packages/hello_ros2-0.0.0-py3.10.egg-info
+[3.601s] running install_scripts
+[3.652s] Installing publisher_node script to /home/pankaj/roschallenge_ws/install/hello_ros2/lib/hello_ros2
+[3.652s] Installing subscriber_node script to /home/pankaj/roschallenge_ws/install/hello_ros2/lib/hello_ros2
+[3.653s] writing list of installed files to '/home/pankaj/roschallenge_ws/build/hello_ros2/install.log'
+[3.750s] Invoked command in '/home/pankaj/roschallenge_ws/src/hello_ros2' returned '0': PYTHONPATH=/home/pankaj/roschallenge_ws/build/hello_ros2/prefix_override:/home/pankaj/roschallenge_ws/install/hello_ros2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/hello_ros2 build --build-base /home/pankaj/roschallenge_ws/build/hello_ros2/build install --record /home/pankaj/roschallenge_ws/build/hello_ros2/install.log --single-version-externally-managed
